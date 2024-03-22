@@ -5,9 +5,10 @@ CC0 license.
 Please create wild and wonderous things with these assets!
 
 Feel free to tag the creators on Twitter: 
-(https://twitter.com/AhoiMalloy)https://twitter.com/AhoiMalloy
 ---
-(https://twitter.com/Catabasist)https://twitter.com/Catabasist
+https://twitter.com/AhoiMalloy
 ---
-(https://twitter.com/FeekaCafe)https://twitter.com/FeekaCafe
+https://twitter.com/Catabasist
+---
+https://twitter.com/FeekaCafe
 ---
