@@ -1,5 +1,5 @@
 # Spellbook of Ulu'tek
-The source assets for The Spellbook of Ulu'tek
+## The source assets for The Spellbook of Ulu'tek
 
 CC0 license.
 Please create wild and wonderous things with these assets!
